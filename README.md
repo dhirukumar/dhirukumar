@@ -53,30 +53,6 @@ contact    : dhiru952006@gmail.com
 
 ---
 
-## 🚀 Projects
-
-### 📝 Medium-like Blogging Platform
-> A scalable, serverless blogging platform inspired by Medium — clean architecture, SEO-friendly, and edge-deployed.
-
-**Stack:** `React` `TypeScript` `Tailwind CSS` `Vite` `Hono` `Cloudflare Workers` `Prisma` `PostgreSQL` `JWT` `Vercel`
-
-- Responsive frontend with React Router & optimized UX
-- Secure backend with JWT auth, rich-text editing & SEO pages
-- Fully serverless — deployed on Cloudflare Workers
-
----
-
-### 🔒 Secret Notes
-> Full-stack Notes Platform with OTP-based authentication and secure session management.
-
-**Stack:** `Hono.js` `Prisma ORM` `Cloudflare Workers` `NeonDB` `Resend` `React.js` `Tailwind CSS` `JWT`
-
-- OTP sign-in/sign-up with validation, error handling & resend flow
-- JWT session management with "Keep me logged in" feature
-- Responsive, error-tolerant UI for seamless usability
-
----
-
 ## 🛠️ Tech Stack
 
 ### 🖥️ Frontend
